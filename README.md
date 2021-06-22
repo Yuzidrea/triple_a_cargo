@@ -9,5 +9,5 @@ CARA INSTALASI PROGRAM :
 
 
 GUNAKAN AKUN BERIKUT UNTUK LOGIN:
-Admin : bachtiarahmad@gmail.com password :5kcer
-Kurir : bambangsumanto@gmail.com password :5kcer
+- Admin : bachtiarahmad@gmail.com password :5kcer
+- Kurir : bambangsumanto@gmail.com password :5kcer
